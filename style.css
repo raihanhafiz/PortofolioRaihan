@@ -17,4 +17,5 @@ section {
 
 .carousel-contain {
   background-color: #ffe6ae;
+  background-attachment: fixed;
 }
